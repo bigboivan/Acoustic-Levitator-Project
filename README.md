@@ -1,0 +1,2 @@
+# Acoustic-Levitator-Project
+This is the project I did for the Navrotsky lab with fellow undergrad Nicholas To at ASU under the guidance of Assistant Professor Sergey Ushakov. The device is called an Acoustic Levitator which uses numerous ultrasonic speakers or transducers aligned across two arrays to produce enough physical force to levitate a sample. The device was modeled mostly on the TinyLev design created by Asier Marzo,  Adrian Barnes, and Bruce W. Drinkwater. The material developed by others that was used directly or for inspiration is credited.
